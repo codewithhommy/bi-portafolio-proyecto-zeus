@@ -1,4 +1,4 @@
--- 🔮 01_profecia_inicial.sql
+-- 01_profecia_inicial.sql
 -- LA VISIÓN DE APOLO - ANÁLISIS EXPLORATORIO INICIAL
 -- Propósito: Desvelar los secretos y estructura de los datos Northwind
 
