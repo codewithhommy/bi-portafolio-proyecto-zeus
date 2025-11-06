@@ -48,9 +48,12 @@ Análisis completo de Business Intelligence para Northwind Traders implementando
 
 ## Estructura del Proyecto
 proyecto-zeus/
-├ ── santuario-sql/ # Scripts SQL organizados por fase
-├ ── templo-documentacion/ # Documentación técnica y de negocio
-└ ── oraculo-datos/ # Dataset Northwind original
+
+├── santuario-sql/ # Scripts SQL organizados por fase
+
+├── templo-documentacion/ # Documentación técnica y de negocio
+
+└── oraculo-datos/ # Dataset Northwind original
 
 ## 🚀 Cómo Ejecutar
 1. Cargar dataset: `psql -f oraculo-datos/northwind.sql`
