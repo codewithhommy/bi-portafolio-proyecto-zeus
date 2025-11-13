@@ -55,12 +55,9 @@ proyecto-zeus/
 
 └── oraculo-datos/ # Dataset Northwind original
 
-## 🚀 Cómo Ejecutar
+## Cómo Ejecutar
 1. Cargar dataset: `psql -f oraculo-datos/northwind.sql`
 2. Ejecutar ETL: `psql -f santuario-sql/03_proceso_etl_completo_corregido.sql`
 3. Consultas analíticas: `psql -f santuario-sql/04_consultas_analiticas.sql`
 
----
-
-*⭐ Este proyecto demuestra habilidades basicas y clave para posiciones de Business Intelligence Analyst ⭐*
 
